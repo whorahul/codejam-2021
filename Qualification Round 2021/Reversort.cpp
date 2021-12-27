@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
 const int MAXN = 100;
 int a[MAXN];
 
