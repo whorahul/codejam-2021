@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
 const int INF = 1E9;
 const int MAXN = 1000;
 int dp[MAXN][2];
